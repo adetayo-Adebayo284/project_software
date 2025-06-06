@@ -1,0 +1,1 @@
+The primary goal of this project is to provide users with a tool that generates creative content ideas based on current trends. By harnessing the power of artificial intelligence through Cahere API and analyzing popularity through Google Trends, the application offers unique suggestions for blogs, videos, and other content formats.
